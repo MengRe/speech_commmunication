@@ -11,6 +11,8 @@
 * ffmpeg (Windows下） **注意是系统的环境变量，不是个人的path**
 [https://blog.csdn.net/zhuiqiuk/article/details/72834385](https://blog.csdn.net/zhuiqiuk/article/details/72834385)
 
+### 关于pyttsx3模块的使用：
+[https://blog.csdn.net/dss_dssssd/article/details/82693742](https://blog.csdn.net/dss_dssssd/article/details/82693742)
 ## 注意：
 **pyttsx3的pyttsx3.engine()初始化不能放在线程中进行，会错。**
 
